@@ -9,8 +9,6 @@
 #' brl_eur()
 #' 
 brl_eur <- function(){
-  library(devtools)
-  library(roxygen2)
   library(tidyquant)
   library(ggplot2)
   brl_eur <- tq_get('EURBRL=X?P=EURBRL=X',
