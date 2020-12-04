@@ -13,3 +13,7 @@ No arguments are required.
 To install it, please use the following command in R:
 
 devtools::install_github("brunoponne123/brleur")
+
+Important! This package depend on the following other packages:
+    tidyquant
+    ggplot2
