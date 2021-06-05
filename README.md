@@ -1,7 +1,7 @@
 # brleur
 This is a package created for the course "Introduction to Data Science" at Hertie School
 
-The function brl_eur() contained in this packages retrieves financial data from yahoo.com.
+The function brl_eur() contained in this package retrieves financial data from yahoo.com.
 
 Specifically, it gathers the BRL/EURO exchange rate for 2020 and plots it.
 
